@@ -2,7 +2,7 @@
   "name": "sr/module-auto-invoice-shipment",
   "description": "",
   "require": {
-    "php": "~7.0.0|~7.1.0|~7.2.0",
+    "php": "~7.2.0",
     "magento/module-sales": ">=101.0.0",
     "magento/module-store": ">=101.0.0",
     "magento/framework": ">=102.0.0"
